@@ -1,0 +1,16 @@
+{
+  "name": "tickets",
+  "version": "1.0.0",
+  "description": "Algoritmo para la devolucion de dinero en billetes",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tomi Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.2",
+    "ts-jest": "^27.0.7"
+  }
+}
